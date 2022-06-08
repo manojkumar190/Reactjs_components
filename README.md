@@ -1,2 +1,2 @@
-# Reactjs_components_part1
+# Reactjs_project1
 Created with CodeSandbox
